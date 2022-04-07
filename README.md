@@ -1,1 +1,3 @@
-# 624
+# Stat624
+
+Short description of repository
